@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: henrylin2008
+    Default: <github-id>
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
